@@ -46,7 +46,9 @@ public class BaseClass {
 	public static Row row;
 	public static Cell cell;
 
-
+// the code was changed by the qa to  check conflict merger
+// verify it and send by qa 	
+	
 	public static BaseClass baseClass= new BaseClass();
 
 
