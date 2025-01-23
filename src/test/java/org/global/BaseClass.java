@@ -307,7 +307,7 @@ public class BaseClass {
 
 	public String getPropertiesData(String key) throws IOException {
 
-		File file=new File("DataBase\\login.properties");
+		File file=new File("");
 		FileReader fileReader= new FileReader(file);
 		Properties properties=new Properties();
 		properties.load(fileReader);
